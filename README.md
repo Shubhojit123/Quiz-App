@@ -26,7 +26,7 @@ Start the Application
 
 Select Quiz Options
 
-![Alt text](https://github.com/Shubhojit123/Quiz-App/blob/main/images/2.png?raw=true)
+![Alt text](https://github.com/Shubhojit123/Quiz-App/blob/main/images/Screenshot%202024-12-19%20034416.png?raw=true)
 
 Your Quiz Startd
 
