@@ -18,3 +18,23 @@ The Quiz Application is a Java-based project that provides an interactive platfo
 - `@Id`: Denotes the primary key field.
 - `@GeneratedValue`: Automatically generates IDs using the specified strategy.
 - `@ElementCollection` and `@CollectionTable`: Used for storing the list of options in a separate table.
+
+Start the Application 
+
+![Alt text](https://github.com/Shubhojit123/Quiz-App/blob/main/images/1.png?raw=true)
+
+
+Select Quiz Options
+
+![Alt text](https://github.com/Shubhojit123/Quiz-App/blob/main/images/2.png?raw=true)
+
+Your Quiz Startd
+
+![Alt text](https://github.com/Shubhojit123/Quiz-App/blob/main/images/3.png?raw=true)
+
+Your Quiz Result
+
+![Alt text](https://github.com/Shubhojit123/Quiz-App/blob/main/images/4.png?raw=true)
+
+
+
